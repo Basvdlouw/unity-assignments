@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\bas_v\\OneDrive\\School\\Game Minor\\Game programming\\Roll a ball\\Assembly-CSharp.csproj",
+  "TargetFramework": "v4.7.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
